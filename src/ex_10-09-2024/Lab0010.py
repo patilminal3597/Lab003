@@ -1,4 +1,3 @@
-
 score = int(input("Enter your score: "))  # Getting the score input from the user
 
 if score >= 90:
